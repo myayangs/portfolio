@@ -1,5 +1,5 @@
 export const aboutConfig = {
-  title: "About Us",
+  title: "About Me",
   description: "This is where you can introduce yourself or your company. Share your story, mission, and values. Explain what makes you unique and why people should be interested in your work. Keep it concise but engaging.",
   image: "/assets/images/about.jpg",
   stats: [

@@ -1,7 +1,7 @@
 export const globalConfig = {
   site: {
-    name: "Your Portfolio Name",
-    author: "Your Name",
+    name: "Portfolio M Yayang Setiawan",
+    author: "M Yayang Setiawan",
     description: "A brief description of your portfolio website",
     url: "/"
   },
@@ -28,11 +28,10 @@ export const globalConfig = {
   },
   footer: {
     aria: "Footer Navigation",
-    copyright: "© 2025 Your Name. All rights reserved.",
+    copyright: "© 2025 M Yayang Setiawan. All rights reserved.",
     social: {
-      twitter: "https://x.com/TencentCloudEO",
-      github: "https://github.com/TencentEdgeOne",
-      email: "media_service@tencent.com"
+      github: "https://github.com/myayangs",
+      email: "myayangs@gmail.com"
     }
   }
 } as const; 

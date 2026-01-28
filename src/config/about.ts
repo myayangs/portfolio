@@ -4,24 +4,16 @@ export const aboutConfig = {
   image: "/assets/images/about.jpg",
   stats: [
     {
-      value: "5+",
+      value: "2+",
       label: "Years Experience",
     },
     {
-      value: "50+",
+      value: "20+",
       label: "Projects Completed",
-    },
-    {
-      value: "100%",
-      label: "Client Satisfaction",
-    },
+    }
   ],
   skills: [
-    "Next.js",
-    "React",
-    "TypeScript",
-    "Tailwind CSS",
-    "Node.js",
+    "Linux",
     "Docker",
     "Git",
     "AWS"
@@ -30,22 +22,10 @@ export const aboutConfig = {
     title: "Experience",
     items: [
       {
-        period: "2022 - Present",
-        role: "Senior Frontend Developer",
-        company: "Tencent Cloud",
-        description: "Leading frontend development for EdgeOne platform and templates."
-      },
-      {
-        period: "2020 - 2022",
-        role: "Frontend Developer",
-        company: "Tencent Cloud",
-        description: "Developed and maintained multiple web applications and tools."
-      },
-      {
-        period: "2018 - 2020",
-        role: "Junior Developer",
-        company: "Tencent Cloud",
-        description: "Worked on various client projects and internal tools."
+        period: "2023 - Presents",
+        role: "DevOps",
+        company: "PT. Jalur Nugraha Eka",
+        description: "Managing and optimizing cloud infrastructure, implementing CI/CD pipelines, automating deployment processes, and ensuring system reliability, security, and scalability across environments."
       }
     ]
   },
@@ -53,10 +33,6 @@ export const aboutConfig = {
     title: "Let's Connect",
     description: "Feel free to reach out if you want to collaborate or just say hi! You can find us on social media or drop us an email.",
     links: {
-      twitter: {
-        text: "follow us on twitter",
-        url: "https://x.com/TencentCloudEO"
-      },
       email: {
         text: "email",
         url: "mailto:media_service@tencent.com"

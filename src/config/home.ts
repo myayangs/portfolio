@@ -1,8 +1,8 @@
 export const homeConfig = {
-  greeting: "Hello, I'm Your Name",
-  description: "A passionate frontend developer with a keen eye for design and a love for creating beautiful, functional web experiences.",
+  greeting: "Hello, I'm M. Yayang Setiawan",
+  description: "A Cloud and DevOps enthusiast who loves building scalable infrastructure, automating workflows, and creating reliable systems.",
   buttons: {
     viewProjects: "View Projects",
     readPosts: "Read Posts"
   }
-} as const 
+} as const
